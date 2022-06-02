@@ -7,7 +7,7 @@
 ![LanguajeC](https://img.shields.io/badge/c-3DDC84?style=for-the-badge&logo=&logoColor=white&labelColor=101010)</br>
 ![verilog](https://img.shields.io/badge/verilog-3DDC84?style=for-the-badge&logo=Verilog&logoColor=white&labelColor=101010)</br>
 ![MikroC](https://img.shields.io/badge/MikroC-3DDC84?style=for-the-badge&logo=mikroc&logoColor=white&labelColor=101010)</br>
-![UNIX/LINUX](https://img.shields.io/badge/Unix_Linux_Terminal-3DDC84?style=for-the-badge&logo=Linux&logoColor=white&labelColor=101010)</br>
+![LINUX](https://img.shields.io/badge/Linux-3DDC84?style=for-the-badge&logo=Linux&logoColor=white&labelColor=101010)</br>
 <!---
 andrey-08/andrey-08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
