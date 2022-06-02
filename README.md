@@ -1,6 +1,6 @@
 ### Hi👋, My name is Andrey Sequeira Ruiz and this is my portfolio.
 - I'm from Upala, Alajuela, Costa Rica.
-- I'm about to finish my career on Electronic Engineering at Tecnológico de Costa Rica, San Carlos.
+- I'm about to finish my career on Electronic Engineering at Instituto Tecnológico de Costa Rica, San Carlos.
 - I'm currently learning about Embedded Systems programming and I'm constantly learning about C programming and others lenguajes.
 
 ### SKILLS
